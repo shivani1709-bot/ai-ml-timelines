@@ -25,4 +25,7 @@ It also reflects my understanding of how AI has evolved into today’s data-driv
 - Research references: Stanford AI History, IBM AI Research, Google Brain papers
 
 ---
+
+Here is another AI-ML timeline that I created using tiki-toki - https://www.tiki-toki.com/timeline/entry/2210682/The-Evolution-of-Artificial-Intelligence/
+
 *Created by Shivani Mandora — Senior Python Developer & MS in AI (Data Analytics) Student*
